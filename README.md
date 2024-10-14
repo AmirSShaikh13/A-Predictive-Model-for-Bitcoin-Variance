@@ -32,7 +32,7 @@ The proposed analytics solution aims to maximize daily mined blocks from the poo
 - **Confirmations**: Number of confirmations a block has received.
 - **Pool Name**: The mining pool associated with rewards.
 
-By analyzing these data points, we aim to gain insights into mining efficiency and profitability across different pools, overall network activity, and factors influencing mining rewards.
+By analyzing these data points, I aim to gain insights into mining efficiency and profitability across different pools, overall network activity, and factors influencing mining rewards.
 
 ## Getting Started
 
